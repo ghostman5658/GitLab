@@ -1,4 +1,6 @@
-# CSD 340 Web Development with HTML and CSS
+# CSD 380 DevOps
 ## Contributors
 - Kyle Gotzman
+- Sanjiv Dhungel
+- Josh Boettcher
 - Professor Tracy Shelanskey
